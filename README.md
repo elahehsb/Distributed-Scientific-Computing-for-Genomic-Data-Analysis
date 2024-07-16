@@ -9,12 +9,12 @@ System Architecture
 
 Components:
 
-## Data Ingestion: Tools for acquiring genomic data.
+Data Ingestion: Tools for acquiring genomic data.
 
-## Distributed Computing Cluster: Set up with Apache Spark for parallel data processing.
+Distributed Computing Cluster: Set up with Apache Spark for parallel data processing.
 
-## Machine Learning: Implement models for genomic data analysis.
+Machine Learning: Implement models for genomic data analysis.
 
-## Data Storage: Use Hadoop Distributed File System (HDFS) for scalable storage.
+Data Storage: Use Hadoop Distributed File System (HDFS) for scalable storage.
 
-## Web Application: Frontend for data visualization and user interaction.
+Web Application: Frontend for data visualization and user interaction.
